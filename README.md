@@ -1,6 +1,6 @@
 # repo1
 
-hey
-hello
-hi
+anything
+for
+the
 tee :P
